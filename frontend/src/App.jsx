@@ -1,10 +1,20 @@
 
 import './App.css'
+import Header from './components/Header'
+import Hero from './components/Hero'
+import About from './components/About'
+import Footer from './components/Footer'
 
 function App() {
 
   return (
-    <div className='text-red-400'>hello word</div>
+    <> 
+    <Header/>
+    <Hero/>
+    <About/>
+  
+   <Footer/>
+    </>
   )
 }
 
