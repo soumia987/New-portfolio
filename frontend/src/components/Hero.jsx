@@ -21,7 +21,7 @@ function Hero() {
       <div className="text-center text-white z-10 px-4 sm:px-6 lg:px-8">
         <div className="animate-fade-in">
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            <span className="block">Développeur</span>
+            <span className="block">Développeuse</span>
             <span className="block bg-gradient-to-r from-blue-200 to-purple-200 bg-clip-text text-transparent">
               Full Stack
             </span>
@@ -34,7 +34,7 @@ function Hero() {
           {/* Réseaux sociaux */}
           <div className="flex justify-center space-x-6 mb-12">
             <a
-              href="https://github.com"
+              href="https://github.com/soumia987"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-white/10 rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110"
@@ -42,7 +42,7 @@ function Hero() {
               <Github className="h-6 w-6" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/soumia-iradi-55196822a/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-white/10 rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110"
@@ -50,7 +50,7 @@ function Hero() {
               <Linkedin className="h-6 w-6" />
             </a>
             <a
-              href="mailto:contact@example.com"
+              href="mailto:soumas123456@example.com"
               className="p-3 bg-white/10 rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-110"
             >
               <Mail className="h-6 w-6" />

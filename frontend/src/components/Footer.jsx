@@ -6,17 +6,17 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: Github,
-      href: 'https://github.com',
+      href: 'https://github.com/soumia987',
       label: 'GitHub'
     },
     {
       icon: Linkedin,
-      href: 'https://linkedin.com',
+      href: 'https://www.linkedin.com/in/soumia-iradi-55196822a/',
       label: 'LinkedIn'
     },
     {
       icon: Mail,
-      href: 'mailto:contact@example.com',
+      href: 'soumas123456@example.com',
       label: 'Email'
     }
   ];
@@ -46,7 +46,7 @@ const Footer = () => {
               <span className="text-2xl font-bold">Portfolio</span>
             </div>
             <p className="text-gray-400 leading-relaxed">
-              Développeur Full Stack passionné par la création d'expériences web modernes et performantes. Toujours prêt à relever de nouveaux défis.
+              Développeuse Full Stack passionné par la création d'expériences web modernes et performantes. Toujours prêt à relever de nouveaux défis.
             </p>
             <div className="flex space-x-4">
               {socialLinks.map((social, index) => (
@@ -83,9 +83,9 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-6">Contact</h3>
             <div className="space-y-3 text-gray-400">
-              <p>📧 contact@example.com</p>
-              <p>📱 +33 1 23 45 67 89</p>
-              <p>📍 Paris, France</p>
+              <p>📧 soumas123456@example.com</p>
+              <p>📱 +212 445566</p>
+              <p>📍 Beni-Mellal, Maroc</p>
               <p className="text-sm mt-4">💼 Disponible pour de nouveaux projets</p>
             </div>
           </div>
